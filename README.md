@@ -1,0 +1,1 @@
+# alura-typescipt-api-arquitetura
